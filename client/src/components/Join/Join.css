@@ -18,7 +18,8 @@ html, body {
     text-align: center;
     height: 100vh;
     align-items: center;
-    background-color: #1A1A1D;
+    background-color: #686560;
+    
   }
   
   .joinInnerContainer {
@@ -32,10 +33,10 @@ html, body {
   }
   
   .heading {
-    color: white;
+    color: 2979FF;
     font-size: 2.5em;
     padding-bottom: 10px;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid #000000;
   }
   
   .button {
@@ -51,7 +52,7 @@ html, body {
   }
   
   .mt-20 {
-    margin-top: 20px;
+    margin-top: 10px;
   }
   
   @media (min-width: 320px) and (max-width: 480px) {
